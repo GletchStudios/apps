@@ -1,2 +1,32 @@
-Terms Of Service
-a
+Terms of Service
+Effective Date: [Insert Date]
+
+1. Introduction
+Welcome to Gletch - Location, provided by Gletch Studios. By using this App, you agree to these Terms of Service. If you do not agree, please do not use the App.
+
+2. Purpose
+Gletch - Location is a location-based application that allows users to set mock locations, improve Google Maps usability, and share locations.
+
+3. User Responsibilities
+You are responsible for any use of the App, including setting mock locations.
+We do not restrict how you use mock locations, but you must comply with applicable laws.
+Gletch Studios is not responsible for any illegal activities conducted using the App.
+
+4. Data Collection & Privacy
+The App may use your device’s location for features like Google Maps and live location sharing.
+Live location sharing is optional and can be turned on or off at any time.
+We do not share user data with third parties.
+
+5. Accuracy & Liability
+The App provides accurate location services, but we do not guarantee that third-party apps will accept mock locations.
+We are not responsible for any consequences of using fake locations.
+
+6. Account Suspension & Bans
+Currently, users cannot be banned. However, in update 2.0.0, we may introduce banning features for misuse.
+We reserve the right to suspend or terminate access to the App in future updates (planned for update 2.0.0).
+
+7. Governing Law
+These Terms are governed by the laws of Turkey (TR).
+
+8. Contact Information
+For any inquiries or support, please contact us at gletchstudios@gmail.com. A website will be available in the future.
