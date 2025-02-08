@@ -1,1 +1,3 @@
-
+• Added location mocker, google maps, tutorial, shop and settings
+• Added advanced search features (Search by adress/coordinates, Select travel vehicle)
+• Added automation to location mocker (Set time, Loop around locations, Move location to location)
